@@ -52,9 +52,6 @@
   position: relative;
 }
 
-.stick-top {
-}
-
 .framework-grid {
   display: grid;
   width: 95%;
